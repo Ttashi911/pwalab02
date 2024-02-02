@@ -1,0 +1,37 @@
+{
+  "name": "Music Application",
+  "short_name": "Music App",
+  "description": "An app to create the list of favourite songs",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "theme_color": "#686c68",
+  "background_color": "#848984",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+        "src": "/icons/manifest-icon-192.maskable.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+    {
+      "src": "/icons/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+        "src": "/icons/manifest-icon-512.maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+  ]
+}
